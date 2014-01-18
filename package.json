@@ -1,0 +1,19 @@
+{
+  "name": "superagent-csrf",
+  "version": "1.0.0",
+  "description": "Adds CSRF headers to client-side superagent requests",
+  "keywords": [],
+  "author": "Segment.io <team@segment.io>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/superagent-csrf.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.17.0",
+    "express": "~3.4.8",
+    "supertest": "~0.9.0",
+    "superagent": "~0.16.0"
+  },
+  "main": "lib"
+}
